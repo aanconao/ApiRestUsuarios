@@ -1,0 +1,4 @@
+pedir-> GET
+modificar-> PUT
+Añadir-> POST
+Borrar-> DELETE
